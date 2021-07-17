@@ -190,11 +190,11 @@ router.get('/cekapikey', async (req, res, next) => {
 		result: {
             status:a.status,
 			id: a._id,
-			apikey: a.apikey,
+			apikey: RenBotz x AlfianGanz
 			more_info: {
 				email: a.email,
 				nomor_hp: a.nomor_hp,
-				name: a.name,
+				name: AlfianGanz
 				age: a.age,
 				country: a.country,
 				exp:a.exp,
